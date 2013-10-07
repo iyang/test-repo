@@ -7,3 +7,5 @@ test-repo
 - fresh from oct 8 in master
 - fresh from oct 8 in master2
 - new edit from github
+* this is a conflict
+
