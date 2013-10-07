@@ -26,10 +26,10 @@ def foo(name)
 end
 
 def bar(num1, num2)
-  minus = num1 - num2
-  plus  = num1 + num2
-  mult  = num1 * num2
-  div   = num1 / num2 if num2 != 0
+  minus  = num1 - num2
+  plus   = num1 + num2
+  mult   = num1 * num2
+  div    = num1 / num2 if num2 != 0
   result = minus + plus + mult + div
 end
 
