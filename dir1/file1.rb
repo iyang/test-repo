@@ -1,3 +1,4 @@
+require_relative '../dir2/file2'
 =begin
   
 
@@ -19,6 +20,7 @@ def main
   puts "welcome! This is for debugging test"
   foo("Joe Doe")
   puts bar(10, 2)
+  test
 end
 
 def foo(name)
